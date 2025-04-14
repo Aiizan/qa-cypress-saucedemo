@@ -11,9 +11,9 @@ Proyecto de automatización de pruebas para [https://www.saucedemo.com](https://
 ##Archives
 -E2E-
 
-FixturesWithPom.cy.js -- Contains login path, using pom and fixtures to upload user data
-viewAllProducts.cy.js -- Check if the list of items was loaded correctly 
-cartPath.cy.js -- Add and delete cart items 
+- FixturesWithPom.cy.js -- Contains login path, using pom and fixtures to upload user data
+- viewAllProducts.cy.js -- Check if the list of items was loaded correctly 
+- cartPath.cy.js -- Add and delete cart items 
 
 
 -Support-
