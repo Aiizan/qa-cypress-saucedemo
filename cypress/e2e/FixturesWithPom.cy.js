@@ -28,9 +28,6 @@ describe ('Login Test -All user',()=>{
                     cy.url().should('include', "/inventory.html")
                 }
 
-
-
-
             });
         })
     })
