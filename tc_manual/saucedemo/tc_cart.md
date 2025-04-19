@@ -4,7 +4,7 @@
 -**Title:** Verify that the cart is updated correctly 
 -**Steps:**
     1. visit (https://www.saucedemo.com/)
-    2. Go to login with correct user
+    2. Go to login with correct user (username: standard_user; password: secret_sauce )
     3. Click on "Add to cart" of item "Sauce Labs Backpack"
     4. Click on item cart icon 
     5. Validate that the added product appears
@@ -19,7 +19,7 @@
 -**Title:** Verify that the other item add correctly 
 -**Steps:**
     1. visit (https://www.saucedemo.com/)
-    2. Go to login with correct user
+    2. Go to login with correct user (username: standard_user; password: secret_sauce )
     3. Click on "Add to cart" of item "Sauce Labs Backpack"
     4. Click on item cart icon 
     5. Validate that the added product appears
@@ -33,7 +33,7 @@
 
 ##  Test Case: Delete item to cart
 
--**ID:** TC005
+-**ID:** TC006
 -**Title:** Verify that the cart is updated correctly 
 -**Steps:**
     1. visit (https://www.saucedemo.com/)
